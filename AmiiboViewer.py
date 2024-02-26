@@ -1,6 +1,5 @@
 import streamlit as st
 import requests
-import json
 from PIL import Image
 import urllib.request 
 
